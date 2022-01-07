@@ -54,7 +54,7 @@
     <rxjava.version>0.14.9</rxjava.version>
 
     <!-- Converter Dependencies -->
-    <protobuf.version>2.5.0</protobuf.version>
+    <protobuf.version>3.16.1</protobuf.version>
     <jackson.version>2.2.2</jackson.version>
     <wire.version>1.2.0</wire.version>
     <simplexml.version>2.7.1</simplexml.version>
